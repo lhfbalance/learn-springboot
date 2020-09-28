@@ -1,0 +1,7 @@
+# Run Listeners
+org.springframework.boot.SpringApplicationRunListener=\
+com.lhfbalance.boot.context.event.MySpringApplicationRunListener
+
+# EnvironmentPostProcessor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.lhfbalance.boot.context.event.MyEnvironmentPostProcessor

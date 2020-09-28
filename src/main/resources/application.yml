@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: learn-sprinboot
+albian:
+  configPath: classpath:config/
+  kernal:
+    threadPoolMin: 1
+    threadPoolMax: 1
